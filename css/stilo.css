@@ -32,14 +32,14 @@
     color: #dff9fb;
    }
 
-.form-control, .btn {
+.form-control, .btn {    /*Icono al inicio de la pagina*/
     border-radius: 0;
 }
   .card{
-     padding: 5px;
+     padding: 7px;
      margin: 3px;
-     
      height: 625px;
+     width: auto;
  }
 
  .card-img-bottom{
